@@ -1,0 +1,33 @@
+body {
+  background-color: #1a1a1a;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  width: calc(100vw - (100vw - 100%));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pagination {
+  display: flex;
+  color: white;
+}
+
+.pagination div {
+  width: 2rem;
+  height: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagination div:hover {
+  cursor: pointer;
+}
+
+.activePage {
+  border-radius: 7px;
+  background: linear-gradient(135deg, #e53935, #e35d5b);
+}
