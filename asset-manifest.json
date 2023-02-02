@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/analyst-ai/static/css/main.a9055639.css",
+    "main.js": "/analyst-ai/static/js/main.956a1aa1.js",
+    "index.html": "/analyst-ai/index.html",
+    "main.a9055639.css.map": "/analyst-ai/static/css/main.a9055639.css.map",
+    "main.956a1aa1.js.map": "/analyst-ai/static/js/main.956a1aa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9055639.css",
+    "static/js/main.956a1aa1.js"
+  ]
+}
