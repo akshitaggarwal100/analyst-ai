@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/analyst-ai/static/css/main.a9055639.css",
-    "main.js": "/analyst-ai/static/js/main.6d211ad9.js",
+    "main.js": "/analyst-ai/static/js/main.eb3bc3f9.js",
     "index.html": "/analyst-ai/index.html",
     "main.a9055639.css.map": "/analyst-ai/static/css/main.a9055639.css.map",
-    "main.6d211ad9.js.map": "/analyst-ai/static/js/main.6d211ad9.js.map"
+    "main.eb3bc3f9.js.map": "/analyst-ai/static/js/main.eb3bc3f9.js.map"
   },
   "entrypoints": [
     "static/css/main.a9055639.css",
-    "static/js/main.6d211ad9.js"
+    "static/js/main.eb3bc3f9.js"
   ]
 }
